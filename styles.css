@@ -8,14 +8,15 @@ body {
     justify-content: center;
     align-items: center;
     font-family: sans-serif;
+    color: #004040;
 }
 
 .container {
     background-color: white;
     padding: .5em 1.5em;
-    max-width: 50%;
+    max-width: 600px;
     border-radius: 1em;
-    box-shadow: 8px 8px rgba(0, 0, 0, 0.855);
+    box-shadow: 8px 8px #004040;
 }
 
 div label {
