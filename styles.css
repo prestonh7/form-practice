@@ -22,6 +22,12 @@ div label {
     display: flex;
 }
 
+a {
+    text-decoration: none;
+    color: #d33f3d;
+}
+
+/* Button style */
 .submit {
   align-items: center;
   background-color: initial;
