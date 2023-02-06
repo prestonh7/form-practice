@@ -36,6 +36,13 @@ a {
   margin-bottom: 1em;
 }
 
+.credit {
+  align-self: flex-end;
+  margin-bottom: 1em;
+  color: white;
+  position: absolute;
+}
+
 /* Button style */
 .submit {
   align-items: center;
